@@ -1,0 +1,26 @@
+number,short_description,description,assignment_group,state
+INC100001,VPN disconnects after login,VPN connection repeatedly disconnects after successful MFA login,Network Support,In Progress
+INC100002,Wireless network not available,Office wifi cannot connect on the third floor,Network Support,Resolved
+INC100003,DNS lookup failure,Internal DNS resolution fails for corporate domains,Network Support,New
+INC100004,Internet slow for remote staff,Home internet access to company tools is intermittent,Network Support,In Progress
+INC100005,Router connectivity loss,Branch router drops network traffic every few minutes,Network Support,Resolved
+INC100006,User password expired,Employee needs password reset after expiration,Identity & Access,New
+INC100007,Account locked after sign in,User cannot login because account locked,Identity & Access,In Progress
+INC100008,MFA authentication failing,Multi factor authentication code is rejected,Identity & Access,Resolved
+INC100009,Login portal denies access,SSO sign in shows permission denied,Identity & Access,New
+INC100010,New employee account access,Provision account for new hire and grant login,Identity & Access,In Progress
+INC100011,Laptop battery not charging,Corporate laptop battery does not charge,Workplace IT,Resolved
+INC100012,Printer queue stuck,Printer jobs remain in queue without printing,Workplace IT,New
+INC100013,External monitor flickers,Second monitor flickers when attached to laptop,Workplace IT,In Progress
+INC100014,Keyboard keys unresponsive,Desktop keyboard loses input randomly,Workplace IT,Resolved
+INC100015,Laptop startup takes too long,Windows laptop boot process unusually slow,Workplace IT,New
+INC100016,Application crashes after update,Sales application closes with error after release,Application Support,In Progress
+INC100017,Portal dashboard blank,Customer portal dashboard shows blank page,Application Support,Resolved
+INC100018,App error on file upload,Document upload in app returns an error,Application Support,New
+INC100019,Website page fails to render,Support page crashes after clicking submit,Application Support,In Progress
+INC100020,Dashboard chart not loading,Reporting application does not display graphs,Application Support,Resolved
+INC100021,Database query timeout,SQL query on reporting database times out,Database Operations,New
+INC100022,Postgres connection refused,Application cannot connect to postgres database,Database Operations,In Progress
+INC100023,SQL deadlock errors,Transactions fail due to SQL deadlock,Database Operations,Resolved
+INC100024,MySQL backup failure,MySQL database nightly backup failed,Database Operations,New
+INC100025,Database performance degraded,Slow query causes high database latency,Database Operations,In Progress
